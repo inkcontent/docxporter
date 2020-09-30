@@ -1,0 +1,22 @@
+{
+  "name": "docxporter",
+  "version": "1.1.1",
+  "description": "",
+  "homepage": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "ink-plugin": {
+    "id": "c2c84e94-55a5-4a1d-9878-1e711eb9d874",
+    "title": "Docxporter",
+    "icon": "sample.png",
+    "readme": "readme.md",
+    "module": false
+  },
+  "engines": {
+    "ink": "^2.0.0"
+  }
+}
