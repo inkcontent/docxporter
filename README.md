@@ -1,6 +1,10 @@
-# docxporter
-Docxporter is a demo plugin for INK that exports ink files to Ms Word Docx format
+# Docxporter
+Docxporter is a demo plugin for [INK](https://inkforall.com/) that exports ink files to Ms Word Docx format
 
+Interested in writing INK Plugins, check the [developer manual](https://inkcontent.github.io/dev-manual/getting-started/index.html)
+
+# About INK editor 
+[INK](https://inkforall.com/) is an SEO Web Content Writing Editor Powered by AI, it provides a convenient interface to help you focus on your writing and provide tools to help you rank better on search engines.
 
 # About docxporter license
 The original software is Docxporter (“Component”). The initial developer of the Component was INK Content, Inc.; portions copyright 2020 INK Content, Inc.. All rights reserved.
