@@ -1,6 +1,6 @@
 {
   "name": "docxporter",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "description": "",
   "homepage": "https://github.com/inkcontent/docxporter",
   "main": "main.js",
@@ -17,6 +17,9 @@
     "module": false
   },
   "engines": {
-    "ink": "^2.0.0"
+    "ink": "^3.0.0"
+  },
+  "devDependencies": {
+    "inkplugin": "^0.2.8"
   }
 }
