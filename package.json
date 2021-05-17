@@ -17,7 +17,7 @@
     "module": false
   },
   "engines": {
-    "ink": "^3.0.0"
+    "ink": ">=2.0.0"
   },
   "devDependencies": {
     "inkplugin": "^0.2.8"
